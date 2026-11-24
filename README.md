@@ -59,4 +59,4 @@ The app checks this repo for new versions, downloads them in the background and 
 
 ---
 
-<sub>Not affiliated with or endorsed by Karuta or Discord. Character art belongs to its owners and is only shown on your own PC. This repo only hosts the Windows download and updates; Karuta Companion itself is closed source.</sub>
+<sub>Not affiliated with or endorsed by Karuta or Discord. Character art belongs to its owners and is only shown on your own PC. This repo only hosts the Windows download and updates; Karuta Companion itself is closed source, all rights reserved. See [LICENSE](LICENSE).</sub>
