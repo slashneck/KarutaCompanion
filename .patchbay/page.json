@@ -1,0 +1,11 @@
+{
+  "name": "Karuta Companion",
+  "pitch": "Browse, sort and plan your Karuta card collection on your PC. Import your k!sheet once and see every card.",
+  "category": "games",
+  "download": "installer",
+  "web_app": "",
+  "signing": "",
+  "icon": "icon.png",
+  "thumbnail": "thumbnail.png",
+  "screenshots": ["1-collection.png", "2-card-details.png", "3-frame-tester.png", "4-wishlist.png", "5-shop.png"]
+}
